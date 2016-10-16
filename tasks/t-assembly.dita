@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_jkf_btg_qx">
+    <title>Assembling The Machine</title>
+    <shortdesc>This will introduce the proper way to assemble your 
+    class' ice cream machine.</shortdesc>
+    <taskbody>
+        <prereq>Gather the following components of the machine: <ul>
+                <li><b>Cap with Measurement Cup</b></li>
+                <li><b>Easy-Lock Lid with Ingredient Spout</b></li>
+                <li><b>Mixing Arm</b></li>
+                <li><b>Freezer Bowl</b></li>
+                <li><b>Control Panel</b></li>
+                <li><b>Base</b></li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd>Wipe all components <b>except</b> the <b>freezer bowl</b> clean with a damp
+                    cloth.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>WARNING: Do NOT immerse the base in water.</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Place the <b>freezer bowl </b>in the center of the base.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>It should fit snugly in the hollow.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Place the <b>mixing arm</b> into the <b>freezer bowl</b>.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>This should rest in the center of the bowl with the circle side facing
+                            up.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Orient the <b>easy-lock lid with ingredient spout</b>
+                slightly right of center.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the <b>easy-lock lid with ingredient spout</b> clockwise
+                to lock it to the base.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>The lid may seem loose, this will not impact performance.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Plug the unit into the nearest power source, and prepare to pour
+                 your ice cream mixture!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
