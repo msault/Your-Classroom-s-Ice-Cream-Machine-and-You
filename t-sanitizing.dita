@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_nkh_2lh_qx">
+    <title>Cleaning Everything Up</title>
+    <shortdesc>This will help you thoroughly sanitize all equipment in order to prepare it for the
+        next batch of ice cream.</shortdesc>
+    <taskbody>
+        <context>It's incredibly important to remove traces of allergens that can linger on the
+            equipment if you aren't careful.</context>
+        <prereq>Gather the following cleaning supplies:
+            <ul>
+        <li><b>Dishwashing Soap</b></li>
+                <li><b>Drying Rack</b></li>
+                <li><b>Sponge</b></li>
+                <li><b>Dishwasher</b></li>
+                <li><b>Dry Cloth</b></li>
+                <li><b>Damp Cloth</b></li>    
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Disassemble the machine.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the base of the machine with the <b>damp cloth</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>WARNING: do NOT immerse the base 
+                        in water.</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Clean the <b>freezer bowl, mixing arm, measuring cup,</b> and <b>easy-lock 
+                    lid with ingredient spout</b> into the <b>dishwasher</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the <b>dishwasher</b> on and set to clean</cmd>
+            </step>
+            <step>
+                <cmd>Thoroughly dry the <b>freezer bowl</b> with the <b>dry cloth</b></cmd>
+            </step>
+            <step>
+                <cmd>Place the <b>freezer bowl</b> back in the freezer.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the <b>mixing arm, measuring cup,</b> 
+                    and <b>easy-lock lid with ingredient spout</b> from 
+                dishwasher and reassemble onto the machine base</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><b>WARNING: do NOT store these items
+                        in the freezer</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task>
