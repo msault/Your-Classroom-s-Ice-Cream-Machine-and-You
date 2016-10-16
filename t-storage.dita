@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_rnv_lqh_qx">
+    <title>Storing Your Ice Cream</title>
+    <shortdesc>This will detail the steps you should take to ensure the proper storage of your
+        snack.</shortdesc>
+    <taskbody>
+        <context>Because the ice cream machine is available to all students and staff in the English
+            Department, it's important to ensure the proper labeling and storage of all leftover
+            treats. <b>It is university policy to remove all leftover food from the Shanks freezer after
+             seven days.</b></context>
+        <prereq>Gather the following supplies
+        <ul> 
+            <li><b>Spoon</b></li>
+            <li><b>Plastic Zip-loc Bag</b></li>
+            <li><b>Permanent Marker</b></li>
+        </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Use the <b>spoon</b> to empty your left-over frozen 
+                    treat into a <b>plastic zip-loc bag.</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Use caution when removing the ice cream from
+                        the <b>freezer bowl</b>, and refrain from scratching
+                        the sides.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Remove the air from the <b>plastic zip-loc bag</b> and seal.</cmd>
+            </step>
+            <step>
+                <cmd>Use the <b>permanent marker</b> to record the your full name
+                    and date (dd/mm/yyyy)</cmd>  
+            </step>
+            <step>
+                <cmd>Place the <b>plastic zip-loc bag</b> in the freezer of the Shanks kitchen.</cmd>
+            </step>
+            <step>
+                <cmd>Return the <b>plastic zip-loc bag, permanent marker,</b> and <b>spoon</b> to their 
+                    respective locations.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
