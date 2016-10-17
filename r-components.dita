@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ttr_4c3_qx">
+  <title>Ice Cream Machine Components</title>
+  <shortdesc>This details the elements of the Shanks ice cream machine.</shortdesc>
+  <refbody> <section>
+    <title>Components</title>
+    <p>
+      <dl>
+        <dlentry>
+          <dt>1. Cap with Measurement Cup</dt>
+          <dd>Use this to pour ingredients into the freezer bowl without 
+            interfering with the freezing cycle. The measurement cup is 
+            especially useful for add-ins like chocolate chips and sprinkles.</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>2. Easy-Lock Lid with Ingredient Spout</dt>
+          <dd>This lid is transparent so you can directly observe the freezing 
+            process, and the spout allows you to add different ingredients to 
+            the mixture with ease!</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>3. Mixing Arm</dt>
+          <dd>This unique mixing arm combines your ingredients in the mixing bowl,
+            churning and turning until it yields the perfect bowl. </dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>4. Freezer Bowl</dt>
+          <dd>This double-insulated bowl is kept in the freezer whenever it isn’t in use.</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>5. Control Panel</dt>
+          <dd>This is where you let the machine know whether you want ice cream, gelato,
+            or sorbet. The control panel also houses the start/stop button that you’ll 
+            press to get the freezer bowl turning.
+          </dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>6. Base</dt>
+          <dd>This is the part of the machine that should be in the room at all times. It houses
+            the motor needed to make hundreds of bowls of frozen treats.</dd>
+        </dlentry>
+      </dl>
+    </p>
+  </section>
+    
+  </refbody>
+</reference>

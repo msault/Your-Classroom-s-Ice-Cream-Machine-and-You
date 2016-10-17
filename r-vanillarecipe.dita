@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_uzh_hk3_qx">
+  <title>Simple Vanilla Ice Cream</title>
+  <shortdesc>This delicious recipe is a classic! Read on to learn how to replicate it in your
+    classroom's ice cream machine. </shortdesc>
+  <refbody>
+    <section>
+      <title>Possible Allergens</title>
+      <p>Dairy</p>
+    </section>
+    <section>
+      <title>Prep Time</title>
+      <p>2 hours, 10 minutes</p>
+    </section>
+    <section>
+      <title>Yields</title>
+      <p>7 cups of ice cream.</p>
+    </section>
+    <section>
+      <title>Ingredients</title>
+      <p><simpletable>
+          <strow>
+            <stentry>1.5 cups whole milk</stentry>
+            <stentry>3 cups heavy cream</stentry>
+            <stentry>1 pinch kosher salt</stentry>
+            <stentry>1 cup, 2 tbsp granulated sugar</stentry>
+            <stentry>1.5 tbsp pure vanilla extract</stentry>
+          </strow>
+      </simpletable></p>
+    </section>
+    <section>
+      <title>Procedure</title>
+      <p>
+       <ol>
+         <li>Whis the <b>milk, sugar,</b> and <b>salt</b> in a medium
+         bowl until the sugar is dissolved.</li>
+         <li>Stir in the <b>heavy cream</b> and <b>vanilla</b></li>
+         <li>Cover and refrigerate at least 2 hours</li>
+       </ol>
+      </p>
+    </section>
+    <section>
+      <title>Adding to the Machine</title>
+      <p>
+        <ol>
+          <li>Press <b>Ice Cream</b> and then <b>Start/Stop</b></li>
+          <li>Pour the mixture through the hole in the <b>easy-lock lid
+          with ingredient spout</b>and cover it with the <b>cap with measuring
+           cup.</b></li>
+          <li>Cover and refrigerate at least two hours.</li>
+        </ol>
+      </p>
+    </section>
+  </refbody>
+  
+</reference>
