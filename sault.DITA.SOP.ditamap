@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Your Classroom's Ice Cream Machine and You</title>
+ <topicref href="concepts/c-introduction.dita"/>
+ <topicref href="concepts/c-uses.dita"/>
+ <topicref href="concepts/c-enclosed.dita"/>
+ <topicref href="references/r-components.dita"/>
+ <topicref href="concepts/c-beforeyoubegin.dita"/>
+ <topicref href="tasks/t-assembly.dita"/>
+ <topicref href="tasks/t-storage.dita"/>
+ <topicref href="tasks/t-sanitizing.dita"/>
+ <topicref href="concepts/c-etiquette.dita"/>
+ <topicref href="references/r-lemongelatorecipe.dita"/>
+ <topicref href="references/r-raspberymintsorbet.dita"/>
+ <topicref href="references/r-vanillarecipe.dita"/>
+</map>
